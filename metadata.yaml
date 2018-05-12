@@ -1,0 +1,33 @@
+_repo: Victor-s-TriumphSequel-to-A-Beautiful-Fiend_29729
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29729-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Southworth, Emma Dorothy Eliza Nevitte
+    aliases:
+    - Southworth, Emma D. E. N.
+    - Southworth, E. D. E. N.
+    - Nevitt, Dorothy Emma Eliza
+    birthdate: 1819
+    deathdate: 1899
+    gutenberg_agent_id: '1307'
+    url: http://www.gutenberg.org/2009/agents/1307
+    wikipedia: http://en.wikipedia.org/wiki/E._D._E._N._Southworth
+description: ''
+gutenberg_issued: '2009-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: 'Victor''s Triumph
+
+  Sequel to A Beautiful Fiend'
+url: http://www.gutenberg.org/ebooks/29729
